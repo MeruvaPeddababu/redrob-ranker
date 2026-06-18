@@ -106,10 +106,10 @@ active, responsive candidate with slightly weaker skills.
 | `ranker_v3.py` | Main ranker — run this |
 | `dashboard.html` | Recruiter UI — open in browser |
 | `submission_ranked_top100.csv` | Final ranked output |
-| `approach_deck.pdf` | Methodology presentation |
+| `approach_deck.pptx` | Methodology presentation |
 | `build_deck.js` | Deck builder (requires pptxgenjs) |
 | `requirements.txt` | Empty — stdlib only |
-| `submission_metadata_template.yaml` | Fill before submitting |
+| `submission_metadata_template 2.yaml` | Fill before submitting |
 
 ---
 
