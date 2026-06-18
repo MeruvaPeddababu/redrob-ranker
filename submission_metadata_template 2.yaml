@@ -15,11 +15,11 @@ primary_contact:
 # ============================================================================
 # Code and reproducibility
 # ============================================================================
-github_repo: "https://github.com/YOUR_USERNAME/YOUR_REPO"
+github_repo: "https://github.com/MeruvaPeddababu/redrob-ranker"
 
 sandbox_link: "https://huggingface.co/spaces/YOUR_USERNAME/redrob-ranker"
 
-reproduce_command: "python rank.py --candidates ./candidates.jsonl --out ./submission.csv"
+reproduce_command: "python3 ranker_v3.py --jd job_description.docx --candidates candidates_simplified.json --output results.csv"
 
 
 # ============================================================================
