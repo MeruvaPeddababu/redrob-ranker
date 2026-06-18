@@ -17,7 +17,7 @@ primary_contact:
 # ============================================================================
 github_repo: "https://github.com/MeruvaPeddababu/redrob-ranker"
 
-sandbox_link: "https://huggingface.co/spaces/YOUR_USERNAME/redrob-ranker"
+sandbox_link: "https://redrob-ranker-jg4ke7xwphuzny8aexo6jx.streamlit.app/"
 
 reproduce_command: "python3 ranker_v3.py --jd job_description.docx --candidates candidates_simplified.json --output results.csv"
 
